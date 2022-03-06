@@ -1,4 +1,4 @@
-# code for "Learning to Learn by jointly optimizing neural architecture and weights"
+# code for "Learning to Learn by jointly optimizing neural architecture and weights" CVPR2022
 
 ## 1. dataset prepare
 
@@ -18,3 +18,4 @@ mini-imagenet - omniglot - FC100
 
 > cd scrips
 > sh search_imagenet.sh
+
