@@ -19,3 +19,19 @@ mini-imagenet - omniglot - FC100
 > cd scrips
 > sh search_imagenet.sh
 
+## 4. cite our work
+
+```yaml
+@inproceedings{ding2022learning,
+      title={Learning to Learn by Jointly Optimizing Neural Architecture and Weights}, 
+      author={Ding, Yadong and Wu, Yu and Huang, Chengyue and Tang, Siliang and Yang, Yi and Wei, Longhui and Zhuang, Yueting and Tian, Qi},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+      year={2022}
+}
+```
+
+## 5. contact us
+
+```yaml
+Yadong Ding: yadong97@outlook.com
+```
